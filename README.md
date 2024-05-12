@@ -30,6 +30,18 @@ AND Hyp2: Many of the not-interested joiners are old candidates
 ![page4](https://github.com/areej349/PathFinder/assets/158787695/bd941a6c-6936-43e6-a813-0bf8b01e24d2)
 
 
+## ML model Jobteaser
+Our target is a model to check if the student is active so mandatory to upload a CV
+The model predicts bout 57297 is active 
+,and the accuracy is about 80%
+
+- link: https://colab.research.google.com/drive/1WJECYn3A1OxrvBbGdC3Tl-OP98b9jJYM?usp=sharing
+
+<img width="500" alt="ML" src="https://github.com/areej349/PathFinder/assets/158787695/b5ba84b4-67d3-4ea2-9a74-258e83f75872">
+
+
+
+
 
 
 
